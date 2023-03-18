@@ -1,0 +1,10 @@
+pythom fue creado por guido van rossum en 1991,
+lenguaje de programcaion mas popular actualmente,se utiliza para desarrollo web, desarrollo de software, matematicas es multiiplataformas
+entorno de desarrollo integrado, Que es un IDE: programa que permite editar codigo fuente de manera sencilla 
+pythom se puede trabajaren:
+visual studio, pycharm
+tipos de datos en pythom;
+numericos; int , float(deimales)
+logicos: (booleanos) bool
+variables 	sin espacios y que no empiece con numeros o simbolos 
+operadores y expresiones: 
