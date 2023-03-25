@@ -94,7 +94,7 @@ else:
 elif condicion
     instruciones a ejecutar
 
-"""
+
 num1 = int(input("ingrese numero: ".title()))
 num2 = int(input("ingrese segundo numero: ".title()))
 if num1>num2:
@@ -105,5 +105,13 @@ elif num1<num2:
        
 else:
     print(f"{num1} y {num2} son iguales")
+"""
+
+#CONDICIONAL Y OPERADORES LOGICOS: and , or
+#pedir al usuario la edad y a que grupo quiere pertenecer [Adultos/Infantes]. si el usuario tiene 18 años o mas y escoge 
+#adultos muestre "Puede ingresar al grupo", de lo contrario "Excede la edad para pertenecer al grupo de infantes",de
+#lo contrario  "no puede ingresar". si escoge una opcion diferente debe mostrar OPCION NO VALIDA
+
+
 
 
